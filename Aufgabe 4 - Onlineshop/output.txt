@@ -1,0 +1,45 @@
+Welcome to the online shop product management
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to exit.
+0
+id: 0, name: Samsung TV, price: 2999.99€, stock: 0
+id: 1, name: The Camel Club - David Baldacci, price: 9.89€, stock: 0
+id: 2, name: Mountain Bike, price: 679.99€, stock: 0
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to exit.
+1
+Product creation:
+Enter a product name: Headphones
+Enter a product description: High quality headphones made in China
+Enter the product's price in €: 69.00
+The following product has been added to the catalog:
+Product [id=3, name=Headphones, description=High quality headphones made in China, price=69.0€]
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to exit.
+2
+Please, enter product id:3
+Please, enter new stock level:23
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to exit.
+0
+id: 0, name: Samsung TV, price: 2999.99€, stock: 0
+id: 1, name: The Camel Club - David Baldacci, price: 9.89€, stock: 0
+id: 2, name: Mountain Bike, price: 679.99€, stock: 0
+id: 3, name: Headphones, price: 69.0€, stock: 23
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to exit.

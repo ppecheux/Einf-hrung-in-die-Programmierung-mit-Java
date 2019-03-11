@@ -1,0 +1,45 @@
+Welcome to the online shop product management
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to ship a product
+4 to exit.
+0
+id: 0, product: Book [title=The Camel Club, author=David Baldacci, publisher=Grand Central Publishing, edition=3, price=8.99], stock:0
+id: 1, product: Book [title=Angels and Demons, author=Dan Brown, publisher=Atria Books, edition=4, price=17.89], stock:0
+id: 2, product: Book [title=The Confession, author=John Grisham, publisher=Cornerstone Digital, edition=2, price=12.99], stock:0
+id: 3, product: Television [manufacturer=Samsung, screensize=44, receiver=true, price=899.99], stock:0
+id: 4, product: Television [manufacturer=Toshiba, screensize=50, receiver=false, price=649.9], stock:0
+id: 5, product: Television [manufacturer=Apple, screensize=60, receiver=true, price=2589.9], stock:0
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to ship a product
+4 to exit.
+2
+Please, enter product id:2
+Please, enter new stock level:222
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to ship a product
+4 to exit.
+3
+Please, enter product id:2
+Please, enter quantity of products for shipping:22
+Please enter the recipient's name:John Doe
+Please, enter a Delivery Mode:EXPRESS
+Please, enter a Carrier:DHL
+22 units of product with id 2 shipped by DHL to John Doe with delivery mode EXPRESS
+Remaining quantity: 22
+Please, enter one of the following commands:
+0 to list all products
+1 to register a new product
+2 to adjust stock levels
+3 to ship a product
+4 to exit.
+4
+Byebye!
